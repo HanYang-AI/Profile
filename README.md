@@ -9,22 +9,24 @@
 </p>
 
 ### 🤖 AI & Research Interests
-<p>
-  <img src="https://img.shields.io/badge/Computer%20Vision-000000?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Autonomous%20Driving-0A1AFF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/NLP-663399?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Multimodal%20LLM-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI%20Agent-00BFA6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Physical%20AI-4285F4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Neural%20Network-E91E63?style=for-the-badge"/>
-  <br>
-  <img src="https://img.shields.io/badge/Data%20Science-007ACC?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-FF0000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Reinforcement%20Learning-009999?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data%20Mining-A1887F?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Database-00748F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG-5C2D91?style=for-the-badge"/>
-</p>
+
+<img src="https://img.shields.io/badge/Computer%20Vision-000000?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Autonomous%20Driving-0A1AFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-663399?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Multimodal%20LLM-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Agent-00BFA6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Physical%20AI-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Neural%20Network-E91E63?style=for-the-badge"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Data%20Science-007ACC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-FF0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Reinforcement%20Learning-009999?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Mining-A1887F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Database-00748F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-5C2D91?style=for-the-badge"/>
+
 
 ### 🧠 LLM & AI Tools
 <p>
