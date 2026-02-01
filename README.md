@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/AI%20Agent-00BFA6?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Physical%20AI-4285F4?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Neural%20Network-E91E63?style=for-the-badge"/>
+  <br>
   <img src="https://img.shields.io/badge/Data%20Science-007ACC?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Deep%20Learning-FF0000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Reinforcement%20Learning-009999?style=for-the-badge"/>
@@ -31,6 +32,8 @@
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/Claude-FF7A00?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Perplexity-000000?style=for-the-badge"/>
+  <br>
   <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/DeepSeek-00A3E0?style=for-the-badge"/>
 </p>
+
