@@ -11,7 +11,7 @@
 ### 🤖 AI & Research Interests
 
 <p>
-  <img src="https://img.shields.io/badge/Computer%20Vision-000000?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Autonomous%20Driving-0A1AFF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/NLP-663399?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Multimodal%20LLM-FF6F00?style=for-the-badge"/>
@@ -19,7 +19,6 @@
 <p>
   <img src="https://img.shields.io/badge/AI%20Agent-00BFA6?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Physical%20AI-4285F4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Neural%20Network-E91E63?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Data%20Science-007ACC?style=for-the-badge"/>
 </p>
 <p>
@@ -35,13 +34,12 @@
 
 ### 🧠 LLM & AI Tools
 <p>
-  <img src="https://img.shields.io/badge/GPT-000000?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GPT-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Claude-FF7A00?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Perplexity-000000?style=for-the-badge"/>
   <br>
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DeepSeek-00A3E0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge"/>
 </p>
 
 📚 단기 스터디 (Short-Term Study)
